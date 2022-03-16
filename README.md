@@ -2,7 +2,7 @@
 
 ## I’m Vishnu. I'm a Computer Science Undergrad trying to figure out life. 🤪
 
-<br><br>
+<br>
 
 You can also call me a product designer, experience designer, interaction, UI, UX, web developer or by any other market defined function-title.
 
