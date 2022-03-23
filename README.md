@@ -1,6 +1,6 @@
 # Hi 👋
 
-## I’m Vishnu. I'm a Computer Science Undergrad trying to figure out life. 🤪
+## I’m Vishnu. I'm a Computer Science graduate trying to figure out life. 🤪
 
 <br>
 
