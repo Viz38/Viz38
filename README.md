@@ -54,7 +54,7 @@ You can read more about my biography, experience, skills, education and much mor
 
 <br><br><br>
 
-[![HitCount](https://hits.dwyl.com/viz38/https://githubcom/Viz38/Viz38.svg?style=flat)](http://hits.dwyl.com/viz38/https://githubcom/Viz38/Viz38)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Viz38.visitor-badge)
 
 ---
 
