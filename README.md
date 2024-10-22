@@ -31,7 +31,7 @@ You can read more about my biography, experience, skills, education, and much mo
  </div>
 
 
-<br><br><br><br>
+<br><br>
 ![visitor badge](https://komarev.com/ghpvc/?username=Viz38&color=lightgrey)
 ---
 
