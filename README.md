@@ -33,8 +33,6 @@ You can read more about my biography, experience, skills, education and much mor
 
  </div>
  
- ![](https://komarev.com/ghpvc/?username=Viz38&color=lightgrey)
- 
 ---
 
 <br>
