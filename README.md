@@ -65,7 +65,7 @@ You can read more about my biography, experience, skills, education, and much mo
 <img align="left" src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux,nextjs,vue,nuxtjs,angular" />
 <img align="left" src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,spring,django,flask,pytorch,tensorflow,dotnet,figma,flutter,webflow,wordpress" />
 
-<br><br>
+<br><br><br>
 #### Database & Skills:
      
 <img align="left" src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,graphql,firebase,redis,postman" />
@@ -76,7 +76,6 @@ You can read more about my biography, experience, skills, education, and much mo
 <img align="left" src="https://skillicons.dev/icons?i=git,gitlab,github,bash,docker,kubernetes,nginx,heroku,netlify,vercel,cloudflare,aws,gcp,azure,ai,bots" />
 
 <br><br><br>
-
 ![visitor badge](https://komarev.com/ghpvc/?username=Viz38&color=lightgrey)
 
 ---
