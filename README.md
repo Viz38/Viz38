@@ -24,7 +24,7 @@ You can read more about my biography, experience, skills, education and much mor
 <a href=#><img src="contributions.svg"></a>
 
 <div float="right"> 
-[![Vishnu's github stats](https://github-readme-stats.vercel.app/api?username=Viz38&show_icons=true&theme=gruvbox)]
+[![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viz38&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viz38&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 </div>
