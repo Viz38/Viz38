@@ -48,7 +48,7 @@ You can read more about my biography, experience, skills, education, and much mo
 [![website](./img/instagram-light.svg)](https://instagram.com/wish_new8r#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/wish_new8#gh-dark-mode-only)
 
-### Languages and Tools:
+### Languages:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -58,6 +58,26 @@ You can read more about my biography, experience, skills, education, and much mo
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+
+#### ⛓️Frameworks and Skills:
+
+  <div align="left">      
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux,nextjs,vue,nuxtjs,angular" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,spring,django,flask,pytorch,tensorflow,dotnet,figma,flutter,webflow,wordpress" />
+  </div>
+  
+#### 🧵Database & Skills:
+
+  <div align="left">      
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,graphql,firebase,redis,postman" />
+  </div>
+
+#### ⚡️Other Essentials:
+
+  <div align="left">      
+    <img src="https://skillicons.dev/icons?i=git,gitlab,github,bash,docker,kubernetes,nginx,heroku,netlify,vercel,cloudflare,aws,gcp,azure,ai,bots" />
+  </div>
+</div>
 
 <br><br><br>
 
