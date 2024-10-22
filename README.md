@@ -59,19 +59,19 @@ You can read more about my biography, experience, skills, education, and much mo
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-<br><br><br>
-#### ⛓️Frameworks and Skills:
+<br><br>
+#### Frameworks and Skills:
 
 <img align="left" src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux,nextjs,vue,nuxtjs,angular" />
 <img align="left" src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,spring,django,flask,pytorch,tensorflow,dotnet,figma,flutter,webflow,wordpress" />
 
-<br><br><br>
-#### 🧵Database & Skills:
+<br><br>
+#### Database & Skills:
      
 <img align="left" src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,graphql,firebase,redis,postman" />
 
-<br><br><br>
-#### ⚡️Other Essentials:
+<br><br>
+#### Other Essentials:
 
 <img align="left" src="https://skillicons.dev/icons?i=git,gitlab,github,bash,docker,kubernetes,nginx,heroku,netlify,vercel,cloudflare,aws,gcp,azure,ai,bots" />
 
