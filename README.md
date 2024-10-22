@@ -22,12 +22,11 @@ You can read more about my biography, experience, skills, education and much mor
 <br><br>
 
 <a href=#><img src="contributions.svg"></a>
+
 <div float="right"> 
 ![Vishnu's github stats](https://github-readme-stats.vercel.app/api?username=Viz38&show_icons=true&theme=gruvbox) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viz38&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
- ![](https://komarev.com/ghpvc/?username=Viz38&color=lightgrey)
  
 ---
 
@@ -57,7 +56,7 @@ You can read more about my biography, experience, skills, education and much mor
 
 <br><br><br>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Viz38.visitor-badge)
+![visitor badge](https://komarev.com/ghpvc/?username=Viz38&color=lightgrey)
 
 ---
 
