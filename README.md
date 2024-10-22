@@ -4,15 +4,15 @@
 
 <br>
 
-You can also call me a product designer, experience designer, interaction, UI, UX, web developer or by any other market defined function-title.
+You can also call me a product designer, experience designer, interaction, UI, UX, web developer, or by any other market-defined function title.
 
-I don’t like to define myself by the work I’ve done. I define myself by the work I want to do. Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself, and do interesting things that matter. 😎
+I don’t like to define myself by the work I’ve done. I define myself by the work I want to do. Skills can be taught, but personality is inherent. I prefer to keep learning, continue challenging myself, and do interesting things that matter. 😎
 
-I like to develop expertise in a number of areas over the course of my life and career. I currently work remotely with a selected freelance client base and are open for new opportunities.
+I like to develop expertise in several areas throughout my life and career. I currently work at Mecwin Technologies India Pvt. Ltd as a UI/UX Designer and a selected freelance client base.
 
 <br>
 
-You can read more about my biography, experience, skills, education and much more in the PDF attached below:
+You can read more about my biography, experience, skills, education, and much more in the PDF attached below:
 
 <br>
 
