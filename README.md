@@ -48,6 +48,8 @@ You can read more about my biography, experience, skills, education, and much mo
 [![website](./img/instagram-light.svg)](https://instagram.com/wish_new8r#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/wish_new8#gh-dark-mode-only)
 
+<br>
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
