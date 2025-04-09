@@ -1,54 +1,33 @@
+<h1 align="center">Hi 👋, I'm Vishnu Bhagirathan</h1>
+<h3 align="center">A Computer Science graduate trying to figure out life. 🤪</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Viz38&label=Profile%20views&color=0e75b6&style=flat" alt="Viz38" /> </p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Viz38&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saneep-pp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/wish_new8" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+<a href="mailto:vishnub341@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail Logo" height="35" />
+</a>
+  </a>
+  <a href="https://www.linkedin.com/in/wishnew8" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
 <a href=#><img src="contributions.svg"></a>
-
-# Hi 👋
-
-## I’m Vishnu. I'm a Computer Science graduate trying to figure out life. 🤪
-
-<br>
-
-You can also call me a product designer, experience designer, interaction, UI, UX, web developer, or by any other market-defined function title.
-
-I don’t like to define myself by the work I’ve done. I define myself by the work I want to do. Skills can be taught, but personality is inherent. I prefer to keep learning, continue challenging myself, and do interesting things that matter. 😎
-
-I like to develop expertise in several areas throughout my life and career. I currently work at Mecwin Technologies India Pvt. Ltd as a UI/UX Designer and a selected freelance client base.
-
-<br>
-
-You can read more about my biography, experience, skills, education, and much more in the PDF attached below:
-
-<br>
-
-📜 <a href="https://github.com/Viz38/Viz38.github.io/raw/main/files/My_CV.pdf">My resume (pdf 129kb) </a> 📜
-
-
-<br><br>
-
-<div float="right"> 
- 
-![Viz38's github stats](https://github-readme-stats.vercel.app/api?username=Viz38&show_icons=true&theme=gruvbox) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viz38&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
- </div>
-
-
-<br><br>
-![visitor badge](https://komarev.com/ghpvc/?username=Viz38&color=lightgrey)
----
-
-<br>
-
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://wish-new.me/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://wish-new.me/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/wishnew8/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/wishnew8/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/wish_new8r#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/wish_new8#gh-dark-mode-only)
-
-<br>
-
----
-
+</div>
